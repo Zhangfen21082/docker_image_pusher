@@ -2,6 +2,7 @@
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 portainer/portainer:latest
+halohub/halo
 nginx:latest
 zhangxing123/chatgpt-api:latest
 #支持指定架构
