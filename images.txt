@@ -3,7 +3,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 postgres:15.4
 xhofe/alist:latest
 portainer/portainer:latest
-mysql:8.1.0
+jc21/nginx-proxy-manager:latest
 halohub/halo
 nginx:latest
 zhangxing123/chatgpt-api:latest
