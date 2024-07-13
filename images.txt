@@ -5,7 +5,7 @@ xhofe/alist:latest
 portainer/portainer:latest
 jc21/nginx-proxy-manager:latest
 halohub/halo
-shengguo/kakanas
+shengguo/kakanas:latest
 nginx:latest
 zhangxing123/chatgpt-api:latest
 #支持指定架构
