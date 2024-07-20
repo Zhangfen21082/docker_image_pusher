@@ -7,6 +7,8 @@ jc21/nginx-proxy-manager:latest
 halohub/halo
 shengguo/kakanas:latest
 nginx:latest
-zhangxing123/chatgpt-api:latest
+zhangxing123/chatgpt-web:1.0
+zhangxing123/chatgpt-data-app:1.1
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
